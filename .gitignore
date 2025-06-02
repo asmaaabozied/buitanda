@@ -1,31 +1,5 @@
 
 
-/node_modules
 
-/storage/*.key
-/storage/debugbar
-/vendor
-/temp
-/.idea
-/.vscode
-/.vagrant
-Homestead.json
-Homestead.yaml
-npm-debug.log
-yarn-error.log
-.DS_Store
-.idea/
-
-updates/
-
-*.lock
-resources/lang/en.json
-updates.zip
-ecommerce.zip
-install.zip
-/nbproject/private/
-/nbproject
-/public/app-translations
-public/uploads.zip
 
 
